@@ -1,0 +1,2 @@
+#!/bin/nash
+perl -lne 'prit if $. % 2 ==1'
